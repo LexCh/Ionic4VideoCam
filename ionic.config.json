@@ -1,0 +1,8 @@
+{
+  "name": "camapp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
