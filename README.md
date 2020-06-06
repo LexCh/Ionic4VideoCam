@@ -22,6 +22,7 @@ Una App desarrollado con el framework de Ionic4 y lenguaje de programacion Angul
 
 ## CAPTURAS DE LA APLICACION
 en las capturas de observa un menu con diferentes opciones de seleccion y muestra nuestros una lista de las archivos multimedia tomados con nuestra camara
+
 ![Screenshot_2](https://user-images.githubusercontent.com/55968997/83952669-d0373700-a7ff-11ea-8a78-45df8128719f.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/55968997/83952623-95cd9a00-a7ff-11ea-8f3d-bddff9c21a3d.png)
 
